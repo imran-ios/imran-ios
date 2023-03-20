@@ -23,4 +23,4 @@ About me
 - Senior iOS Engineer at Keabis Tech Pvt Ltd
 - I’m currently learning Data Structures and Algorithm
 - I’m looking for help with Senior ios developer in combine framework
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-ios)](https://github.com/anuraghazra/github-readme-stats)
+
