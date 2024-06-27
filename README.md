@@ -1,4 +1,5 @@
 ### Hello, I'm Imran 👋
+[imran](https://imran-ios.github.io/imranali/)
 
 <!--
 **imran-ios/imran-ios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[imran](www.github.com)
+
 
 
 I'm a self-taught passionate iOS developer from India 🇮🇳
