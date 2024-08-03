@@ -1,5 +1,5 @@
 ### Hello, I'm Imran 👋
-[imran's personal site](https://imran-ios.github.io/imranali/)
+[Imran's personal site](https://imran-ios.github.io/portfolio/)
 
 <!--
 **imran-ios/imran-ios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
